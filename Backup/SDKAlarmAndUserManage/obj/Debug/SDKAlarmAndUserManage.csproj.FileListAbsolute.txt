@@ -1,0 +1,9 @@
+C:\Users\operador\Documents\bykom_dahua\bin\SDKAlarmAndUserManage.exe
+C:\Users\operador\Documents\bykom_dahua\bin\SDKAlarmAndUserManage.pdb
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKAlarmAndUserManage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKAlarmAndUserManage\obj\Debug\SDKAlarmAndUserManage.frm_Main.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKAlarmAndUserManage\obj\Debug\DaHuaNetSDKSample.frm_AddDevice.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKAlarmAndUserManage\obj\Debug\SDKAlarmAndUserManage.Properties.Resources.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKAlarmAndUserManage\obj\Debug\SDKAlarmAndUserManage.csproj.GenerateResource.Cache
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKAlarmAndUserManage\obj\Debug\SDKAlarmAndUserManage.exe
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKAlarmAndUserManage\obj\Debug\SDKAlarmAndUserManage.pdb

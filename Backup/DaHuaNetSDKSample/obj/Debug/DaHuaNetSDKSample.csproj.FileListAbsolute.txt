@@ -1,0 +1,13 @@
+C:\Users\operador\Documents\bykom_dahua\bin\DaHuaNetSDKSample.exe
+C:\Users\operador\Documents\bykom_dahua\bin\DaHuaNetSDKSample.pdb
+C:\Users\operador\Documents\bykom_dahua\Backup\DaHuaNetSDKSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\operador\Documents\bykom_dahua\Backup\DaHuaNetSDKSample\obj\Debug\DaHuaNetSDKSample.frmMultiDVRSample.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\DaHuaNetSDKSample\obj\Debug\DaHuaNetSDKSample.frm_PTZControl.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\DaHuaNetSDKSample\obj\Debug\DaHuaNetSDKSample.frm_AddDevice.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\DaHuaNetSDKSample\obj\Debug\DaHuaNetSDKSample.frm_MainC.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\DaHuaNetSDKSample\obj\Debug\DaHuaNetSDKSample.frm_PlayBackByFileSet.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\DaHuaNetSDKSample\obj\Debug\DaHuaNetSDKSample.frm_PlayBackByTimeSet.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\DaHuaNetSDKSample\obj\Debug\DaHuaNetSDKSample.Properties.Resources.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\DaHuaNetSDKSample\obj\Debug\DaHuaNetSDKSample.csproj.GenerateResource.Cache
+C:\Users\operador\Documents\bykom_dahua\Backup\DaHuaNetSDKSample\obj\Debug\DaHuaNetSDKSample.exe
+C:\Users\operador\Documents\bykom_dahua\Backup\DaHuaNetSDKSample\obj\Debug\DaHuaNetSDKSample.pdb

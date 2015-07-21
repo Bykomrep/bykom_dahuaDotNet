@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DahuaSDK">
+</Property><Property Name="Solution File" Value="C:\Users\operador\Documents\bykom_dahua\Backup\DahuaSDK.sln">
+</Property><Property Name="Date" Value="jueves, 02 de julio de 2015">
+</Property><Property Name="Time" Value="10:11">
+</Property></Properties><Event ErrorLevel="0" Project="DaHuaNetSDKSample" Source="DaHuaNetSDKSample\DaHuaNetSDKSample.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DaHuaNetSDKSample" Source="DaHuaNetSDKSample\DaHuaNetSDKSample.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DHNetSDKCS" Source="DaHuaNetSDK.CS\DHNetSDKCS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DHNetSDKCS" Source="DaHuaNetSDK.CS\DHNetSDKCS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SDKFuctionSetAndInfoGet" Source="SDKFuctionSetAndInfoGet\SDKFuctionSetAndInfoGet.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SDKFuctionSetAndInfoGet" Source="SDKFuctionSetAndInfoGet\SDKFuctionSetAndInfoGet.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SDKAlarmAndUserManage" Source="SDKAlarmAndUserManage\SDKAlarmAndUserManage.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SDKAlarmAndUserManage" Source="SDKAlarmAndUserManage\SDKAlarmAndUserManage.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SDKDownLoadFileDemo" Source="SDKDownLoadFileDemo\SDKDownLoadFileDemo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SDKDownLoadFileDemo" Source="SDKDownLoadFileDemo\SDKDownLoadFileDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DHPlaySDKCS" Source="DHPlaySDKCS\DHPlaySDKCS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DHPlaySDKCS" Source="DHPlaySDKCS\DHPlaySDKCS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SDKPlayDemo" Source="SDKPlayDemo\SDKPlayDemo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SDKPlayDemo" Source="SDKPlayDemo\SDKPlayDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OtherDemo" Source="ColligateDemo\OtherDemo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="OtherDemo" Source="ColligateDemo\OtherDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DHVDCSDKCS" Source="DHVDCSDKCS\DHVDCSDKCS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DHVDCSDKCS" Source="DHVDCSDKCS\DHVDCSDKCS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Utility" Source="Utility\Utility.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Utility" Source="Utility\Utility.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SDKCapturePicture" Source="SDKCapturePicture\SDKCapturePicture.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SDKCapturePicture" Source="SDKCapturePicture\SDKCapturePicture.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DahuaSDK.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DahuaSDK.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DaHuaNetSDKSample" Source="DaHuaNetSDKSample\DaHuaNetSDKSample.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SDKFuctionSetAndInfoGet" Source="SDKFuctionSetAndInfoGet\SDKFuctionSetAndInfoGet.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SDKAlarmAndUserManage" Source="SDKAlarmAndUserManage\SDKAlarmAndUserManage.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SDKDownLoadFileDemo" Source="SDKDownLoadFileDemo\SDKDownLoadFileDemo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SDKCapturePicture" Source="SDKCapturePicture\SDKCapturePicture.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SDKPlayDemo" Source="SDKPlayDemo\SDKPlayDemo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="OtherDemo" Source="ColligateDemo\OtherDemo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DHNetSDKCS" Source="DaHuaNetSDK.CS\DHNetSDKCS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DHPlaySDKCS" Source="DHPlaySDKCS\DHPlaySDKCS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DHVDCSDKCS" Source="DHVDCSDKCS\DHVDCSDKCS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Utility" Source="Utility\Utility.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

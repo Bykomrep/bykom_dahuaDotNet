@@ -1,0 +1,7 @@
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKPlayDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKPlayDemo\obj\Debug\SDKPlayDemo.frmAbout.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKPlayDemo\obj\Debug\SDKPlayDemo.frmDataRecord.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKPlayDemo\obj\Debug\SDKPlayDemo.frmDisplayRegion.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKPlayDemo\obj\Debug\SDKPlayDemo.frmDrawFunSet.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKPlayDemo\obj\Debug\SDKPlayDemo.frm_Main.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKPlayDemo\obj\Debug\SDKPlayDemo.csproj.GenerateResource.Cache

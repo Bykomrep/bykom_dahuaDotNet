@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ED9B98F5-5DB6-4E7E-A7E3-ADE56B9D3672}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DaHuaNetSDKSample</RootNamespace>
+    <AssemblyName>DaHuaNetSDKSample</AssemblyName>
+    <ApplicationIcon>dhIcod.ico</ApplicationIcon>
+    <StartupObject>DaHuaNetSDKSample.Program</StartupObject>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmMultiDVRSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMultiDVRSample.Designer.cs">
+      <DependentUpon>frmMultiDVRSample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_PTZControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_PTZControl.Designer.cs">
+      <DependentUpon>frm_PTZControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_AddDevice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_AddDevice.Designer.cs">
+      <DependentUpon>frm_AddDevice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_MainC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_MainC.Designer.cs">
+      <DependentUpon>frm_MainC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_PlayBackByFileSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_PlayBackByFileSet.Designer.cs">
+      <DependentUpon>frm_PlayBackByFileSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_PlayBackByTimeSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_PlayBackByTimeSet.Designer.cs">
+      <DependentUpon>frm_PlayBackByTimeSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmMultiDVRSample.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMultiDVRSample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_PTZControl.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_PTZControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_AddDevice.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_AddDevice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_MainC.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_MainC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_PlayBackByFileSet.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_PlayBackByFileSet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_PlayBackByTimeSet.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_PlayBackByTimeSet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dhIcod.ico" />
+    <Content Include="images\DHLogo.ico" />
+    <Content Include="images\Icon1.ico" />
+    <Content Include="images\ARW02DN.ICO" />
+    <Content Include="images\ARW02LT.ICO" />
+    <Content Include="images\ARW02RT.ICO" />
+    <Content Include="images\ARW02UP.ICO" />
+    <Content Include="images\ARW09DN.ICO" />
+    <Content Include="images\ARW09UP.ICO" />
+    <Content Include="images\CAMERA.ICO" />
+    <Content Include="images\ARW10NE.ICO" />
+    <Content Include="images\ARW10NW.ICO" />
+    <Content Include="images\ARW10SE.ICO" />
+    <Content Include="images\ARW10SW.ICO" />
+    <Content Include="images\D.ico" />
+    <Content Include="images\Icon2.ico" />
+    <Content Include="images\MISC13.ICO" />
+    <Content Include="images\MISC14.ICO" />
+    <Content Include="images\MOON05.ICO" />
+    <Content Include="images\P.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DaHuaNetSDK.CS\DHNetSDKCS.csproj">
+      <Project>{149a62f0-7073-4f54-b91e-e0b041c1a3ec}</Project>
+      <Name>DHNetSDKCS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DHPlaySDKCS\DHPlaySDKCS.csproj">
+      <Project>{c79e29d6-9549-49b2-b038-c9ab45d391d5}</Project>
+      <Name>DHPlaySDKCS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DHVDCSDKCS\DHVDCSDKCS.csproj">
+      <Project>{de4aca8d-25e6-4334-a8de-fb5cff8371b4}</Project>
+      <Name>DHVDCSDKCS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utility\Utility.csproj">
+      <Project>{058f0f59-d21c-4df0-a26f-ba04963ebde6}</Project>
+      <Name>Utility</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

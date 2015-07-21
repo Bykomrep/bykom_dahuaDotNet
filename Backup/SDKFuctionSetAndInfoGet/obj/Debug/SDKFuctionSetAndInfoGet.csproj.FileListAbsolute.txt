@@ -1,0 +1,9 @@
+C:\Users\operador\Documents\bykom_dahua\bin\SDKFuctionSetAndInfoGet.exe
+C:\Users\operador\Documents\bykom_dahua\bin\SDKFuctionSetAndInfoGet.pdb
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKFuctionSetAndInfoGet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKFuctionSetAndInfoGet\obj\Debug\DaHuaNetSDKSample.frm_AddDevice.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKFuctionSetAndInfoGet\obj\Debug\SDKFuctionSetAndInfoGet.frm_Main.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKFuctionSetAndInfoGet\obj\Debug\SDKFuctionSetAndInfoGet.Properties.Resources.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKFuctionSetAndInfoGet\obj\Debug\SDKFuctionSetAndInfoGet.csproj.GenerateResource.Cache
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKFuctionSetAndInfoGet\obj\Debug\SDKFuctionSetAndInfoGet.exe
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKFuctionSetAndInfoGet\obj\Debug\SDKFuctionSetAndInfoGet.pdb

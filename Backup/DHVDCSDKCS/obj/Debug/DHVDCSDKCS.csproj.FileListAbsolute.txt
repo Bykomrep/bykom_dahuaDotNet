@@ -1,0 +1,5 @@
+C:\Users\operador\Documents\bykom_dahua\Backup\Debug\DHVDCSDKCS.dll
+C:\Users\operador\Documents\bykom_dahua\Backup\Debug\DHVDCSDKCS.pdb
+C:\Users\operador\Documents\bykom_dahua\Backup\DHVDCSDKCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\operador\Documents\bykom_dahua\Backup\DHVDCSDKCS\obj\Debug\DHVDCSDKCS.dll
+C:\Users\operador\Documents\bykom_dahua\Backup\DHVDCSDKCS\obj\Debug\DHVDCSDKCS.pdb

@@ -1,0 +1,8 @@
+C:\Users\operador\Documents\bykom_dahua\bin\SDKCapturePicture.exe
+C:\Users\operador\Documents\bykom_dahua\bin\SDKCapturePicture.pdb
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKCapturePicture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKCapturePicture\obj\Debug\SDKCapturePicture.Form1.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKCapturePicture\obj\Debug\SDKCapturePicture.Properties.Resources.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKCapturePicture\obj\Debug\SDKCapturePicture.csproj.GenerateResource.Cache
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKCapturePicture\obj\Debug\SDKCapturePicture.exe
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKCapturePicture\obj\Debug\SDKCapturePicture.pdb

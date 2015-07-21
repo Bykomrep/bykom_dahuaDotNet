@@ -1,0 +1,1 @@
+bykomDahua.exe -ip:186.15.61.29 -port:38000 -usr:admin -psw:Intrade14 -channel:1 -caption:"Bykom Dahua NVR" -cuenta_id:100000016 -sys2015:1234567890 -mysql_DB_name:bykom -mysql_DB_host:192.168.2.16 -mysql_DB_port:3306 -mysql_DB_user:root -mysql_DB_password:654321

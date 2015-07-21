@@ -1,0 +1,6 @@
+C:\Users\operador\Documents\bykom_dahua\Backup\ColligateDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\operador\Documents\bykom_dahua\Backup\ColligateDemo\obj\Debug\ColligateDemo.frm_Main.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\ColligateDemo\obj\Debug\ColligateDemo.frm_AddDevice.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\ColligateDemo\obj\Debug\ColligateDemo.frm_VDCDemo.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\ColligateDemo\obj\Debug\bykomDahua.Properties.Resources.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\ColligateDemo\obj\Debug\OtherDemo.csproj.GenerateResource.Cache

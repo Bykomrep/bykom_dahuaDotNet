@@ -1,0 +1,5 @@
+C:\Users\operador\Documents\bykom_dahua\Backup\Debug\DHNetSDKCS.dll
+C:\Users\operador\Documents\bykom_dahua\Backup\Debug\DHNetSDKCS.pdb
+C:\Users\operador\Documents\bykom_dahua\Backup\DaHuaNetSDK.CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\operador\Documents\bykom_dahua\Backup\DaHuaNetSDK.CS\obj\Debug\DHNetSDKCS.dll
+C:\Users\operador\Documents\bykom_dahua\Backup\DaHuaNetSDK.CS\obj\Debug\DHNetSDKCS.pdb

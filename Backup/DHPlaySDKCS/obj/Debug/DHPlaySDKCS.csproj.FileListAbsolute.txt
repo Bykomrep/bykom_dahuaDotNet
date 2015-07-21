@@ -1,0 +1,5 @@
+C:\Users\operador\Documents\bykom_dahua\Backup\DHPlaySDKCS\bin\Debug\DHPlaySDKCS.dll
+C:\Users\operador\Documents\bykom_dahua\Backup\DHPlaySDKCS\bin\Debug\DHPlaySDKCS.pdb
+C:\Users\operador\Documents\bykom_dahua\Backup\DHPlaySDKCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\operador\Documents\bykom_dahua\Backup\DHPlaySDKCS\obj\Debug\DHPlaySDKCS.dll
+C:\Users\operador\Documents\bykom_dahua\Backup\DHPlaySDKCS\obj\Debug\DHPlaySDKCS.pdb

@@ -1,0 +1,7 @@
+C:\Users\operador\Documents\bykom_dahua\bin\Utility.dll
+C:\Users\operador\Documents\bykom_dahua\bin\Utility.pdb
+C:\Users\operador\Documents\bykom_dahua\Backup\Utility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\operador\Documents\bykom_dahua\Backup\Utility\obj\Debug\Utility.MsgForm.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\Utility\obj\Debug\Utility.csproj.GenerateResource.Cache
+C:\Users\operador\Documents\bykom_dahua\Backup\Utility\obj\Debug\Utility.dll
+C:\Users\operador\Documents\bykom_dahua\Backup\Utility\obj\Debug\Utility.pdb

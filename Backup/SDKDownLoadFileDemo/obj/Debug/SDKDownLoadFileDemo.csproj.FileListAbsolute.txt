@@ -1,0 +1,11 @@
+C:\Users\operador\Documents\bykom_dahua\bin\SDKDownLoadFileDemo.exe
+C:\Users\operador\Documents\bykom_dahua\bin\SDKDownLoadFileDemo.pdb
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKDownLoadFileDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKDownLoadFileDemo\obj\Debug\SDKDownLoadFileDemo.frm_Main.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKDownLoadFileDemo\obj\Debug\SDKDownLoadFileDemo.frm_AddDevice.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKDownLoadFileDemo\obj\Debug\SDKDownLoadFileDemo.frm_PlayBackByFileSet.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKDownLoadFileDemo\obj\Debug\SDKDownLoadFileDemo.frm_PlayBackByTimeSet.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKDownLoadFileDemo\obj\Debug\SDKDownLoadFileDemo.Properties.Resources.resources
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKDownLoadFileDemo\obj\Debug\SDKDownLoadFileDemo.csproj.GenerateResource.Cache
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKDownLoadFileDemo\obj\Debug\SDKDownLoadFileDemo.exe
+C:\Users\operador\Documents\bykom_dahua\Backup\SDKDownLoadFileDemo\obj\Debug\SDKDownLoadFileDemo.pdb

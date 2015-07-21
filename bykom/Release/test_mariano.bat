@@ -1,0 +1,1 @@
+bykomDahua.exe -ip:190.163.109.122 -port:37777 -usr:admin -psw:admin -channel:1 -caption:"BYKOM: Visualizando Dahua Cuenta (2)" -mysql_DB_name:bykom -mysql_DB_host:192.168.2.16 -mysql_DB_port:3306 -mysql_DB_user:jguerra -mysql_DB_password:jguerra -bykomCanViewRecords:1
